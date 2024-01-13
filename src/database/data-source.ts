@@ -7,7 +7,7 @@ const AppDataSource = new DataSource({
     host: 'localhost',
     port: 3306,
     username: 'root',
-    password: 'root',
+    password: 'c66',
     database: 'db_myWallet',
     synchronize: true,
     logging: true,
