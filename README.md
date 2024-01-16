@@ -1,1 +1,1 @@
-Work on migrations in typescript with nodeJS
+Working on migrations in typescript with nodeJS
